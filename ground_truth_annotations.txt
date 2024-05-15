@@ -1,0 +1,10 @@
+--image "Apple Tree Images/apple-1.jpg" label1
+--image "Apple Tree Images/apple-2.jpg" label2
+--image "Apple Tree Images/apple-3.jpg" label3
+--image "Apple Tree Images/apple-4.jpg" label4
+--image "Apple Tree Images/apple-5.jpg" label5
+--image "Apple Tree Images/apple-6.jpg" label6
+--image "Apple Tree Images/apple-7.jpg" label7
+--image "Apple Tree Images/apple-8.jpg" label8
+--image "Apple Tree Images/apple-9.jpg" label9
+
